@@ -36,3 +36,5 @@ pids
 project.xcworkspace
 react-native-dialogs.iml
 xcuserdata
+.npmrc
+ .
